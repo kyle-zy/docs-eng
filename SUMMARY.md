@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [小班课](README.md)
 
 ## 教学课
 
