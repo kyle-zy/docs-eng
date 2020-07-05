@@ -15,6 +15,7 @@
 * [Unit1 Part5 精讲1](jiao-xue-ke/unit1_part5_1.md)
 * [Unit1 Part5 精讲2](jiao-xue-ke/unit1_part5_2.md)
 * [Unit3 Part1 精讲1](jiao-xue-ke/unit3_part1_1.md)
+* [Unit3 part2 精讲2](jiao-xue-ke/unit3_part2_2.md)
 
 ## 专项课
 
