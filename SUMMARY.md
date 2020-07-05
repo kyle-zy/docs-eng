@@ -1,6 +1,6 @@
 # Table of contents
 
-* [小班课](README.md)
+* [英语学习笔记](README.md)
 
 ## 教学课
 
@@ -24,5 +24,5 @@
 
 ## 答疑课
 
-* [Untitled](da-yi-ke/untitled.md)
+* [Lesson\_024 助动词升级版](da-yi-ke/lesson024.md)
 
